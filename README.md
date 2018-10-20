@@ -1,4 +1,4 @@
-CodeLanguageAPI is demo of Django Restfull api implementation.
+CodeLanguageAPI is demo of Django Restfull API implementation.
 
 Its contains basic flow of an Django Restfull API
 
